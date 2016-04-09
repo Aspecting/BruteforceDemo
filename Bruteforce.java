@@ -1,4 +1,4 @@
-package com.jclibo.libobrute;
+package com.aspecting.simplebrute;
 
 /**
  * @author Micheal Myers
