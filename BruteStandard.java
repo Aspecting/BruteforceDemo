@@ -1,4 +1,4 @@
-package com.aspecting.simplebrute;
+package com.aspecting.bruteforcedemo;
 
 import java.util.Date;
 
