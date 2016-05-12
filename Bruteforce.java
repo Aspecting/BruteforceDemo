@@ -1,4 +1,4 @@
-package com.aspecting.simplebrute;
+package com.aspecting.bruteforcedemo;
 
 /**
  * @author Micheal Myers
