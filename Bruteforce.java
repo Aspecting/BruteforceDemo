@@ -42,7 +42,7 @@ public abstract class Bruteforce{
 		while(true){
 			brute();
 			try {
-				Thread.sleep(this.sleep);
+				Thread.sleep(sleep);
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}
